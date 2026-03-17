@@ -42,8 +42,8 @@ def main():
     # OPCIÓN 2 - Juego eligiendo las coordenadas en forma manual
         print("\nTablero del jugador:")
         print(tableroJUb)
-        #print("\nTablero del ordenador:")    ##OCULTAR!!
-        #print(tableroORb)
+        print("\nTablero del ordenador:")    ##OCULTAR!!
+        print(tableroORb)
 
 
         jugar_manual(tableroORb,tableroJUb,tablero_OR2,tablero_JU2,10)

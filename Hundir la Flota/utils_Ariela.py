@@ -148,6 +148,7 @@ def jugar_auto(tableroOR,tableroJU,tableroOR2,tableroJU2,turnos):
                     return
         
             else:
+                tableroOR2[disparo] = "-" #Si no ha acertado marca agua
                 turnos_jug = 0        #Si no he acertado el ordenador se le acaban los turnos
                 #print("turnos jug",turnos_jug)
 
@@ -176,6 +177,7 @@ def jugar_auto(tableroOR,tableroJU,tableroOR2,tableroJU2,turnos):
                     return
         
             else:
+                tableroJU2[disparo] = "-" # Si no ha acertado marca agua
                 turnos_ord = 0   #Si no ha acertado el ordenador se le acaban los turnos
                 
         #print(vueltas)
@@ -226,7 +228,7 @@ def jugar_manual(tableroOR,tableroJU,tableroOR2,tableroJU2,turnos):
 
                 print("Has acertado, puedes jugar nuevamente")
                 tableroOR2[disparo] = "X"  #Marco una X en el tablero que yo veo del ordenador
-                print(tableroOR2)
+                print(tableroOR2)          # Muestra el tablero
                 turnos_jug = turnos_jug-1
 
                 # Verifico que aún queden barcos
@@ -238,6 +240,8 @@ def jugar_manual(tableroOR,tableroJU,tableroOR2,tableroJU2,turnos):
                     return
         
             else:
+                tableroOR2[disparo] = "-"  # Si no ha acertado marca agua
+                print(tableroOR2)          # Muestra el tablero con el error   
                 turnos_jug = 0
                 #print("turnos jug",turnos_jug)
 
@@ -266,6 +270,7 @@ def jugar_manual(tableroOR,tableroJU,tableroOR2,tableroJU2,turnos):
                     return
         
             else:
+                tableroJU2[disparo] = "-"  # Si no ha acertado marca agua
                 turnos_ord = 0
                 #print("turnos ord",turnos_ord)
 
