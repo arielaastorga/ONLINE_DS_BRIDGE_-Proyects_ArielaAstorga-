@@ -37,16 +37,20 @@ def main():
         print(tableroORb) 
         jugar_auto(tableroORb,tableroJUb,tablero_OR2,tablero_JU2,300)
 
-    else:
+    elif forma_juego == 'M':
 
     # OPCIÓN 2 - Juego eligiendo las coordenadas en forma manual
         print("\nTablero del jugador:")
         print(tableroJUb)
         print("\nTablero del ordenador:")    ##OCULTAR!!
         print(tableroORb)
-
-
         jugar_manual(tableroORb,tableroJUb,tablero_OR2,tablero_JU2,10)
+
+    else:
+        print("Error, no has ingresado una letra válida")
+
+
 
 if __name__ == "__main__":
     main()
+    
