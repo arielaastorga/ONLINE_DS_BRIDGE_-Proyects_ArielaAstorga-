@@ -1,0 +1,631 @@
+﻿titulo,precio,habitaciones,m2,altura,zona
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
+"Piso en Calle de las Almortas, Valdeacederas, Madrid",1.590€/mes,2,74,Planta 2ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Esquilache, 14, Vallehermoso, Madrid",1.500€/mes,2,100,Bajo exterior con ascensor,"Vallehermoso, Madrid"
+"Piso en Calle de Olite, 48, Bellas Vistas, Madrid",1.700€/mes,2,68,Planta 4ª exterior con ascensor,"Bellas Vistas, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Calle de Raimundo Fernández Villaverde, 17, Cuatro Caminos, Madrid",1.450€/mes,2,43,Planta 1ª interior con ascensor,"Cuatro Caminos, Madrid"
+"Ático en Calle Santa Engracia, Nuevos Ministerios-Ríos Rosas, Madrid",3.000€/mes,3,108,Planta 7ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Valdezarza, Madrid",1.400€/mes,3,85,Planta 3ª exterior sin ascensor,Madrid
+"Piso en Plaza Diego de Ordas, 2, Nuevos Ministerios-Ríos Rosas, Madrid",2.150€/mes,2,86,Planta 3ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle Cantueso, 8, Valdeacederas, Madrid",1.600€/mes,2,85,Planta 2ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Dirección, 161, Valdeacederas, Madrid",2.950€/mes,3,145,Planta 17ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle del Padre Rubio, 52, Ventilla-Almenara, Madrid",1.450€/mes,3,68,Planta 2ª exterior sin ascensor,"Ventilla-Almenara, Madrid"
+"Ático en Calle de Modesto Lafuente, Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,102,Planta 6ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Trafalgar, Madrid",1.650€/mes,2,55,Planta 3ª interior con ascensor,Madrid
+"Ático en Calle de Alonso Cano, Nuevos Ministerios-Ríos Rosas, Madrid",4.000€/mes,2,138,Planta 9ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle del Robledillo, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Ps Direccion, Valdeacederas, Madrid",1.200€/mes,2,78,Planta 1ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Calle Robledillo, 12, Nuevos Ministerios-Ríos Rosas, Madrid",2.200€/mes,2,100,Planta 1ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Félix Boix, Nueva España, Madrid",3.850€/mes,2,144,Planta 4ª exterior con ascensor,"Nueva España, Madrid"
+"Piso en Calle Manuela Mínguez, 4, Valdeacederas, Madrid",1.100€/mes,2,51,Planta 1ª exterior sin ascensor,"Valdeacederas, Madrid"
+"Piso en Calle de Ríos Rosas, Nuevos Ministerios-Ríos Rosas, Madrid",1.590€/mes,2,60,Planta 5ª exterior con ascensor,"Nuevos Ministerios-Ríos Rosas, Madrid"
+"Piso en Calle de Juan del Risco, Berruguete, Madrid",1.650€/mes,3,88,Planta 2ª exterior con ascensor,"Berruguete, Madrid"
+"Piso en Paseo de La Habana, El Viso, Madrid",2.950€/mes,2,134,Planta 2ª exterior con ascensor,"El Viso, Madrid"
+"Piso en Cuatro Caminos, Madrid",3.900€/mes,4,235,Planta 4ª exterior con ascensor,Madrid
+"Ático en Nuevos Ministerios-Ríos Rosas, Madrid",4.800€/mes,2,144,Planta 7ª exterior con ascensor,Madrid
+"Piso en Calle de Cea Bermúdez, 13, Arapiles, Madrid",1.900€/mes,2,75,Planta 4ª exterior con ascensor,"Arapiles, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.500€/mes,3,117,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle de Pedro Tezano, 6, Berruguete, Madrid",2.200€/mes,2,90,Planta 2ª exterior sin ascensor,"Berruguete, Madrid"
+"Piso en Nuevos Ministerios-Ríos Rosas, Madrid",3.950€/mes,5,200,Planta 4ª exterior con ascensor,Madrid
+"Piso en Calle Marqués de Viana, 82, Valdeacederas, Madrid",1.620€/mes,3,87,Planta 6ª exterior con ascensor,"Valdeacederas, Madrid"
+"Piso en Paseo de la Castellana, Ventilla-Almenara, Madrid",2.950€/mes,3,137,Planta 7ª exterior con ascensor,"Ventilla-Almenara, Madrid"
